@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ws101-sanchez-landingpage/static/css/main.fbb0a6ac.css",
+    "main.js": "/ws101-sanchez-landingpage/static/js/main.bfbd4f99.js",
+    "static/media/wallpaper2.jpg": "/ws101-sanchez-landingpage/static/media/wallpaper2.02e2e972e9d9f5e08245.jpg",
+    "static/media/wallpaperflare.com_wallpaper.jpg": "/ws101-sanchez-landingpage/static/media/wallpaperflare.com_wallpaper.82a85408b3e920451e08.jpg",
+    "static/media/html_pic.png": "/ws101-sanchez-landingpage/static/media/html_pic.fb627e76c05a9a6c7444.png",
+    "static/media/css.png": "/ws101-sanchez-landingpage/static/media/css.ea63097553654f07d95c.png",
+    "static/media/js.jpeg": "/ws101-sanchez-landingpage/static/media/js.6645d65e3bde23a50333.jpeg",
+    "index.html": "/ws101-sanchez-landingpage/index.html",
+    "main.fbb0a6ac.css.map": "/ws101-sanchez-landingpage/static/css/main.fbb0a6ac.css.map",
+    "main.bfbd4f99.js.map": "/ws101-sanchez-landingpage/static/js/main.bfbd4f99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbb0a6ac.css",
+    "static/js/main.bfbd4f99.js"
+  ]
+}
